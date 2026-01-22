@@ -1,0 +1,360 @@
+{
+  "category": "PSYCHIC_PHENOMENA",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/electronic-voice-phenomena",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "electronic-voice-phenomena",
+    "name": "Electronic Voice Phenomena",
+    "aliases": [
+      {
+        "name": "EVP",
+        "meaning": "Acronym for Electronic Voice Phenomena"
+      },
+      {
+        "name": "Raudive Voices",
+        "meaning": "Named after researcher Konstantin Raudive"
+      },
+      {
+        "name": "Spirit Voices",
+        "meaning": "Paranormal interpretation as spirit communication"
+      }
+    ],
+    "category": "PSYCHIC_PHENOMENA",
+    "subcategory": "Spirit Communication",
+    "tags": [
+      "spirits",
+      "communication",
+      "audio",
+      "recording",
+      "pareidolia",
+      "ghost-hunting",
+      "technology"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "Claimed communication with spirits via electronic recordings. Practitioners record in allegedly haunted locations, then play back recordings searching for 'voices' in static or noise that were not audible during recording.",
+      "full": "Electronic Voice Phenomena (EVP) is the claimed communication with spirits through electronic audio recordings. The method involves recording in allegedly haunted locations using digital recorders or specialized equipment, then playing back the recording to find 'voices' in background noise or static that were not heard during the original recording. The practice developed in the 1950s-1960s, notably by Friedrich Jürgenson (1959) and Konstantin Raudive (who claimed over 100,000 recordings). EVP is classified by clarity: Class A (clear, all listeners hear), Class B (some interpretation needed), Class C (heavy interpretation required). Modern ghost hunting popularized 'spirit boxes' (radio frequency scanners). Scientific consensus attributes EVP to pareidolia (hearing patterns in noise) and radio interference, with no verified spirit communication. Despite scientific explanation, EVP remains popular in paranormal investigation and appears regularly on ghost hunting television programs."
+    },
+    "etymology": {
+      "origin": "Term coined in the 1970s to describe voices heard in electronic recordings attributed to spirits",
+      "meaning": "Electronic Voice Phenomena - anomalous voices in electronic recordings",
+      "first_use": "1970s, though practice began in 1950s"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "PSYCHIC_PHENOMENA",
+      "type": "Spirit Communication",
+      "subtype": "Electronic/Audio",
+      "variant": "Modern/Technological"
+    },
+    "related_phenomena": [
+      {
+        "id": "ghosts",
+        "name": "Ghosts",
+        "relationship": "claimed_source",
+        "description": "Spirits allegedly communicating through EVP"
+      },
+      {
+        "id": "haunted-places",
+        "name": "Haunted Places",
+        "relationship": "location",
+        "description": "Common locations for EVP recording attempts"
+      },
+      {
+        "id": "poltergeist",
+        "name": "Poltergeist",
+        "relationship": "related",
+        "description": "Another form of alleged spirit manifestation"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "classification_system": [
+      {
+        "class": "Class A",
+        "description": "Clear, easily understood by all listeners without prompting",
+        "frequency": "Very rare",
+        "clarity": "High",
+        "interpretation": "Minimal to none needed"
+      },
+      {
+        "class": "Class B",
+        "description": "Moderately clear, most listeners agree on content with some prompting",
+        "frequency": "Occasional",
+        "clarity": "Medium",
+        "interpretation": "Some needed"
+      },
+      {
+        "class": "Class C",
+        "description": "Unclear, heavy interpretation required, listeners often disagree",
+        "frequency": "Very common",
+        "clarity": "Low",
+        "interpretation": "Heavy interpretation, often subjective"
+      }
+    ],
+    "recording_methods": [
+      {
+        "method": "Digital voice recorder",
+        "description": "Standard digital recorders left in location",
+        "frequency": "Most common",
+        "notes": "Basic EVP method"
+      },
+      {
+        "method": "Spirit box",
+        "description": "Radio frequency scanner rapidly sweeping stations",
+        "frequency": "Common in ghost hunting",
+        "notes": "Picks up random radio fragments; controversy over validity"
+      },
+      {
+        "method": "Tape recorder (historical)",
+        "description": "Original method using analog tape",
+        "frequency": "Rare (outdated)",
+        "notes": "Used in early research (1950s-1980s)"
+      },
+      {
+        "method": "Specialized EVP equipment",
+        "description": "Custom devices designed for spirit communication",
+        "frequency": "Occasional",
+        "notes": "Various experimental designs"
+      }
+    ],
+    "typical_content": [
+      "Single words or short phrases",
+      "Names of living or deceased persons",
+      "Responses to questions asked during recording",
+      "Unclear sounds interpreted as words",
+      "Background conversations (often from radio interference)"
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Global phenomenon, practiced wherever ghost hunting and paranormal investigation occur",
+      "continents": ["Global"],
+      "concentration": "Western countries with strong paranormal investigation culture (USA, UK, Germany)"
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1959",
+        "circa": false,
+        "source": "Friedrich Jürgenson's first recordings"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1960s-1970s",
+          "description": "Konstantin Raudive's research generates significant interest"
+        },
+        {
+          "period": "2000s-present",
+          "description": "Ghost hunting TV shows popularize EVP widely"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Developed in mid-20th century as technology became accessible; combines spiritualism tradition with electronic recording technology",
+      "earliest_accounts": "Friedrich Jürgenson (Swedish filmmaker) accidentally recorded 'voices' while taping bird songs in 1959",
+      "folklore_connections": "Extension of spiritualism movement's desire to communicate with the dead using available technology"
+    },
+    "timeline": [
+      {
+        "date": "1959",
+        "event": "Friedrich Jürgenson first EVP recordings",
+        "significance": "Swedish filmmaker discovers unexplained voices on bird song recordings",
+        "source": "Jürgenson's published accounts"
+      },
+      {
+        "date": "1965",
+        "event": "Konstantin Raudive begins research",
+        "significance": "Latvian psychologist conducts extensive EVP experiments, claims 100,000+ recordings",
+        "source": "Raudive's publications"
+      },
+      {
+        "date": "1971",
+        "event": "Raudive's 'Breakthrough' published in English",
+        "significance": "Brings EVP to wider English-speaking audience",
+        "source": "Book publication"
+      },
+      {
+        "date": "1970s",
+        "event": "Scientific testing by Pye Records",
+        "significance": "No convincing evidence found in controlled conditions",
+        "source": "Pye Records test results"
+      },
+      {
+        "date": "2000s",
+        "event": "Ghost hunting TV popularization",
+        "significance": "Shows like Ghost Adventures, Ghost Hunters make EVP mainstream",
+        "source": "Television programming"
+      }
+    ],
+    "modern_era": "EVP remains core technique in paranormal investigation despite lack of scientific validation. Digital technology has made recording easier; 'spirit boxes' and specialized apps claim to facilitate communication. Scientific consensus remains that EVP is pareidolia and radio interference."
+  },
+
+  "evidence": {
+    "recordings": [
+      {
+        "id": "raudive-voices",
+        "type": "audio recordings",
+        "name": "Raudive Voices",
+        "date": "1965-1974",
+        "description": "Over 100,000 claimed recordings by Konstantin Raudive",
+        "status": "disputed",
+        "analysis": "Scientific testing found no evidence; likely pareidolia and radio interference"
+      }
+    ],
+    "scientific_tests": [
+      {
+        "id": "pye-records-test",
+        "type": "controlled experiment",
+        "name": "Pye Records Test (1970s)",
+        "description": "Professional audio engineers tested Raudive's claims in controlled conditions",
+        "result": "No convincing evidence of paranormal voices",
+        "analysis": "Found radio interference and pareidolia effects"
+      }
+    ]
+  },
+
+  "theories": {
+    "paranormal": [
+      {
+        "name": "Spirit Communication",
+        "description": "Deceased spirits manipulate electronic equipment to leave voice messages",
+        "proponents": ["Friedrich Jürgenson", "Konstantin Raudive", "Ghost hunters"],
+        "evidence_cited": ["Volume of recordings", "Apparent responses to questions", "Consistency across investigators"]
+      },
+      {
+        "name": "Quantum Consciousness",
+        "description": "Consciousness after death exists in quantum state and can affect electronic devices",
+        "proponents": ["Some parapsychology researchers"],
+        "evidence_cited": ["Quantum mechanics speculation", "Electronic sensitivity"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Pareidolia (Audio)",
+        "description": "Human brain seeks patterns in noise; we 'hear' words in random sounds",
+        "proponents": ["Psychologists", "Skeptics", "Audio engineers"],
+        "evidence_cited": ["Well-established psychological phenomenon", "Backmasking demonstrations", "Listeners hear different 'words' in same recording"]
+      },
+      {
+        "name": "Radio Interference",
+        "description": "Electronic devices pick up stray radio signals, CB radio, walkie-talkies, etc.",
+        "proponents": ["Electronics experts", "Skeptics"],
+        "evidence_cited": ["Known RF interference issues", "Spirit boxes literally scan radio frequencies", "Controlled testing eliminates 'voices'"]
+      },
+      {
+        "name": "Confirmation Bias",
+        "description": "Investigators find what they expect; interpret ambiguous sounds as desired messages",
+        "proponents": ["Psychologists"],
+        "evidence_cited": ["Expectation effects", "Different listeners hear different 'words'", "Prompting affects perception"]
+      },
+      {
+        "name": "Audio Artifacts",
+        "description": "Recording equipment creates artifacts, compression noise, electrical interference",
+        "proponents": ["Audio engineers"],
+        "evidence_cited": ["Known technical limitations", "Digital compression artifacts", "Electrical noise"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "paranormal_investigation": {
+      "significance": "EVP is fundamental technique in modern ghost hunting",
+      "equipment": [
+        "Digital voice recorders",
+        "Spirit boxes (radio scanners)",
+        "Smartphone apps claiming EVP capability",
+        "Specialized 'ghost boxes'"
+      ],
+      "practice": "Record in allegedly haunted locations, ask questions, play back audio searching for responses"
+    },
+    "popular_culture": {
+      "film_tv": [
+        "Ghost Adventures (2008-present) - Heavy EVP use",
+        "Ghost Hunters (2004-2016, 2019-present) - Regular EVP segments",
+        "Paranormal State (2007-2011) - EVP evidence",
+        "White Noise (2005) - Film about EVP",
+        "The Conjuring (2013) - EVP recordings depicted"
+      ],
+      "influence": "Television shows have made EVP one of most recognized paranormal investigation techniques"
+    }
+  },
+
+  "research": {
+    "historical_researchers": [
+      {
+        "name": "Friedrich Jürgenson",
+        "affiliation": "Independent (Swedish filmmaker)",
+        "contribution": "First documented EVP recordings (1959)",
+        "period": "1959-1987"
+      },
+      {
+        "name": "Konstantin Raudive",
+        "affiliation": "Independent (Latvian psychologist)",
+        "contribution": "Extensive EVP research, claimed 100,000+ recordings",
+        "period": "1965-1974"
+      }
+    ],
+    "scientific_perspective": {
+      "consensus": "No verified spirit communication; explained by pareidolia and radio interference",
+      "key_findings": [
+        "Controlled tests eliminate 'voices'",
+        "Pareidolia well-established in audio perception",
+        "Radio interference common in electronic devices",
+        "No repeatability or verification possible"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "raudive-1971",
+      "type": "book",
+      "title": "Breakthrough: An Amazing Experiment in Electronic Communication with the Dead",
+      "authors": ["Konstantin Raudive"],
+      "publication": "Colin Smythe Ltd",
+      "date": "1971"
+    },
+    {
+      "id": "jurgenson-1964",
+      "type": "book",
+      "title": "Voices from the Universe",
+      "authors": ["Friedrich Jürgenson"],
+      "publication": "Various editions",
+      "date": "1964"
+    },
+    {
+      "id": "baruss-2001",
+      "type": "paper",
+      "title": "Failure to Replicate Electronic Voice Phenomenon",
+      "authors": ["Imants Barušs"],
+      "publication": "Journal of Scientific Exploration",
+      "date": "2001",
+      "volume": "15",
+      "issue": "3"
+    }
+  ]
+}
